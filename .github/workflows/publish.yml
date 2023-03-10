@@ -1,6 +1,6 @@
 name: Publish Markdown Files
 env:
-  BLOG_REPO: Jummartinezro/linked-blog-starter
+  BLOG_REPO: Jummartinezro/linked-blog-starter-md
   PUBLISH_DIR: publish
 on:
   push:
